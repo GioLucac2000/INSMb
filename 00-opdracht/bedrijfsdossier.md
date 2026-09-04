@@ -35,7 +35,7 @@ gebruiken die hier staan (met bron) of die hij zelf opzoekt en van een bron voor
 | --- | --- | --- |
 | Bedrijfsbeschrijving + visie/missie (9 componenten) | 1 | **af** — `06-uitwerking/00-bedrijfsbeschrijving.md` |
 | EFE + CPM | 2 | **concept af** — `06-uitwerking/01-externe-analyse.md` |
-| Upload 2 — interne + externe analyse + top 3 kwesties (Tollgate 2) | 3 | IFE nog te doen |
+| IFE + top 3 kwesties (Upload 2 / Tollgate 2) | 3 | **concept af** — `06-uitwerking/02-interne-analyse.md` |
 | Opdrachten week 4 | 4 | niet gestart |
 | Upload 3 — 3 opties (Tollgate 3) | 5 | niet gestart |
 | SWOT / SPACE / BCG / kostenschatting | 6 | niet gestart |
@@ -73,6 +73,38 @@ gebruiken die hier staan (met bron) of die hij zelf opzoekt en van een bron voor
 | Bruto besparingen | bovenkant van €400–500 mln | FY2025-persbericht |
 | Investeringen (capex) | **onder 8%** van netto-omzet | FY2025-persbericht |
 | Strategie | **EverGreen 2030** | FY2025-persbericht |
+
+### Heineken N.V. — halfjaar 2026 (gepubliceerd 5 augustus 2026) — MEEST RECENT
+| Cijfer | Waarde | Bron |
+| --- | --- | --- |
+| Netto-omzet | €14,8 mld, **+2,7%** organisch | HY2026-persbericht |
+| Totaal volume | **+1,6%** (versnelling in Q2) | HY2026-persbericht |
+| Geconsolideerd volume | **+0,4%** | HY2026-persbericht |
+| Licentievolume | **+23,2%** | HY2026-persbericht |
+| Heineken®-merkvolume | **+5,3%** | HY2026-persbericht |
+| Premium | **+6%** | HY2026-persbericht |
+| Beyond beer | **+8%** | HY2026-persbericht |
+| **LoNo (alcoholvrij en -arm)** | **+12%** | HY2026-persbericht |
+| Netto-omzet per hectoliter | **+2,3%** | HY2026-persbericht |
+| Bedrijfsresultaat | **+6,7%**, marge **14,6%** (+55 bp) | HY2026-persbericht |
+| Vrije operationele kasstroom | **€1,4 mld**, kasconversie **97%** | HY2026-persbericht |
+| Netto schuld / EBITDA | **2,6x** (30 juni 2026), doel <2,5x | HY2026-persbericht |
+| Groeimarkten | Vietnam, Ethiopië, India, Brazilië, VK | HY2026-persbericht |
+
+> **Waarom dit ertoe doet:** het volume groeit weer, maar de groei komt **volledig uit premium (+6%),
+> beyond beer (+8%) en LoNo (+12%)** — niet uit mainstream pils. Dat bevestigt de richting van het
+> vraagstuk in plaats van hem te weerleggen.
+
+### Interne financiële punten (2025)
+| Cijfer | Waarde | Bron |
+| --- | --- | --- |
+| Valuta-effect devaluaties Nigeria + Vietnam | **−€450 mln** op gerapporteerde netto-omzet | FY2025-persbericht |
+| Totale valuta-omrekening | **−€918 mln (−6,2%)** — sterkere euro, Mexicaanse peso, Braziliaanse real, Ethiopische birr | FY2025-persbericht |
+| Investeringen (capex) | **€2,4 mld = 8,3%** van netto-omzet | FY2025-persbericht |
+| Netto schuld / EBITDA | **2,3x** (medio 2025), doel **<2,5x** | H1-2025-persbericht |
+| Inkoop eigen aandelen | **€1,5 mld**-programma; eerste tranche voltooid, tweede tranche €750 mln | FY2025-persbericht |
+| Zwakke markten | Europa (prijsgevoeligheid consument), Nigeria, DRC | FY2025-persbericht |
+| EverGreen 2030 | groeiversnelling gefinancierd door productiviteit; **forse kosteningreep over twee jaar** | FY2025-persbericht |
 
 ### Alcoholvrij (Heineken® 0.0)
 | Cijfer | Waarde | Bron |

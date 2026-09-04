@@ -109,6 +109,31 @@ voor de strategische opties in week 4 en 5.
 
 ---
 
+## Meest recente ontwikkeling — halfjaar 2026 (5 augustus 2026)
+
+De EFE en CPM hierboven staan op het **boekjaar 2025**, want dat is het laatste volledige jaar.
+Sinds 5 augustus 2026 zijn er halfjaarcijfers, en die zijn beter:
+
+| | H1 2026 |
+| --- | --- |
+| Totaal volume | **+1,6%** (versnelling in Q2) |
+| Netto-omzet | €14,8 mld, **+2,7%** organisch |
+| Bedrijfsresultaat | **+6,7%**, marge 14,6% |
+| Heineken®-merk | **+5,3%** |
+| Premium · beyond beer · **LoNo** | **+6% · +8% · +12%** |
+
+**Verandert dit de conclusie? Nee — het versterkt hem.** Het volume groeit weer, maar alle groei komt
+uit **premium, beyond beer en alcoholvrij**. Mainstream pils levert de groei niet.
+
+Dat betekent voor de EFE: de rating van **4 op O1** (alcoholvrij) wordt bevestigd door LoNo **+12%**,
+en de rating van **2 op T1** blijft staan — de structurele daling in de kern is niet weg, hij wordt
+alleen gemaskeerd door groei elders in de portefeuille.
+
+> Neem deze cijfers mee in de pitch: het is sterker om te laten zien dat je de meest recente
+> publicatie kent dan om alleen op het jaarverslag te leunen.
+
+---
+
 ## Hoe de externe analyse aansluit op het vraagstuk
 
 De EFE en de CPM wijzen dezelfde kant op:
