@@ -41,7 +41,7 @@ gebruiken die hier staan (met bron) of die hij zelf opzoekt en van een bron voor
 | Marketinggedeelte | 7 | **concept af** — `06-uitwerking/05-marketing.md` |
 | Operationeel gedeelte | 8 | **concept af** — `06-uitwerking/06-operations.md` |
 | Financieel gedeelte + pitch deck | 9 | **concept af** — `06-uitwerking/07-financieel.md` en `08-pitchdeck.md` |
-| Eindrapport + reflectie + Balanced Scorecard | 10 | niet gestart |
+| Eindrapport + reflectie + Balanced Scorecard | 10 | **concept af** — `09-reflectie-en-controle.md` en `10-eindrapport.md`; teamvoorbeelden nog invullen |
 | Pitch presenteren | 10/11 | niet gestart |
 | Competentie-interview (individueel) | na 11 | niet gestart |
 
