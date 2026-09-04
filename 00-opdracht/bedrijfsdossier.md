@@ -38,7 +38,7 @@ gebruiken die hier staan (met bron) of die hij zelf opzoekt en van een bron voor
 | IFE + top 3 kwesties (Upload 2 / Tollgate 2) | 3 | **concept af** — `06-uitwerking/02-interne-analyse.md` |
 | 3 strategische opties (Upload 3 / Tollgate 3) | 4–5 | **concept af** — `06-uitwerking/03-drie-opties.md` |
 | SWOT / SPACE / BCG / kostenschatting + **de keuze** | 6 | **concept af** — `06-uitwerking/04-strategische-keuze.md` |
-| Marketinggedeelte | 7 | niet gestart |
+| Marketinggedeelte | 7 | **concept af** — `06-uitwerking/05-marketing.md` |
 | Operationeel gedeelte | 8 | niet gestart |
 | Financieel gedeelte + pitch deck | 9 | niet gestart |
 | Eindrapport + reflectie + Balanced Scorecard | 10 | niet gestart |
@@ -112,6 +112,14 @@ gebruiken die hier staan (met bron) of die hij zelf opzoekt en van een bron voor
 | Volumegroei totale LNA-portefeuille | low-single-digit; dubbelcijferig in 18 markten | FY2025-persbericht |
 | Aandeel in wereldwijde 0.0-categorie | **18%** | The HEINEKEN Company |
 | Aanwezig in | **117 landen** | The HEINEKEN Company |
+
+### Heineken® 0.0 Ultimate (gelanceerd 12 maart 2026)
+| Cijfer | Waarde | Bron |
+| --- | --- | --- |
+| Propositie | **0 alcohol, 0 calorieën, 0 suiker** | Persbericht 12 maart 2026 |
+| Markten bij lancering | VS en Polen; pilot in Nederland | Persbericht 12 maart 2026 |
+| Productie | dubbel brouwproces met speciale gist; alcohol wordt daarna onttrokken | Persbericht 12 maart 2026 |
+| Heineken® 0.0 verkocht | **meer dan 13 miljoen cases** | Persbericht 12 maart 2026 |
 
 ### De markt (2025)
 | Cijfer | Waarde | Bron |
