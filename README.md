@@ -1,0 +1,2 @@
+# INSMb
+Internationaal strategisch management
