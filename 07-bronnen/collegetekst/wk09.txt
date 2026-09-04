@@ -1,0 +1,543 @@
+### FILE INSM_wk9_student — 40 slides
+
+--- slide 1 ---
+Internationale
+Strategisch beheer
+deel II
+1
+wk9: Financieel beheer
+
+--- slide 2 ---
+2
+hoe operaties niet alleen worden meegenomen bij het ontwikkelen van de strategie, maar de belangrijkste factor zijn om te bepalen of een strategie wordt uitgevoerd of niet 
+
+
+een hulpmiddel om op hoog niveau inzicht te krijgen in de activiteiten van een bedrijf is het organigram
+
+
+dat operations veel moeilijker zijn dan je zou denken, en operations een belangrijke bron van concurrentievoordeel (of nadeel) kunnen zijn
+Vorige week bespraken we
+wk9: financieel beheer
+
+--- slide 3 ---
+
+
+--- slide 4 ---
+4
+wk9: Financieel beheer
+een financiële analyse en projectie van het bedrijf kunnen maken
+na deze week moet je ...
+
+--- slide 5 ---
+5
+wk9: Financieel beheer
+winstverliesberekeningen (LO 8.2)
+
+kasstroomberekeningen (LO 8.2)
+
+strategische impact van financiën op de concurrentiepositie (merk, product/dienst, etc.) en de bedrijfsvoering
+
+bedrijfswaardering (LO 8.3)
+
+Toegevoegde economische waarde (EVA)
+
+Pitch deck
+Onderwerpen die je hierbij kunnen helpen zijn:
+
+--- slide 6 ---
+6
+wk9: Financieel beheer
+1. financiële overzichten
+We beginnen met een korte samenvatting van een aantal onderwerpen die je eerder in andere modules hebt behandeld (bijv. Basiskennis Financiën & Boekhouden):
+
+Inleiding
+Verschil tussen balans en winst-en-verliesrekening
+
+Meer informatie over de winst-en-verliesrekening
+Eenvoudig voorbeeld met cashflowberekeningen
+
+
+
+
+N.B. I. & II. waren onderwerpen van week 5
+
+--- slide 7 ---
+7
+wk9: Financieel beheer
+1. financiële overzichten
+III. Meer informatie over de winst-en-verliesrekening
+
+De winst-en-verliesrekening is het enige dat alle bankiers en investeerders willen zien als ze overwegen om jou een lening aan te bieden.
+
+De winst-en-verliesrekening is een van de eenvoudigste manieren om te zien of je bedrijf winstgevend is of niet.
+
+Het geeft een overzicht van je bedrijfsinkomsten, uitgaven en kosten.
+
+
+Een sterk P&L-overzicht laat zien dat je bedrijf omzet kan maken, de kosten onder controle kan houden en uiteindelijk winst kan maken.
+
+--- slide 8 ---
+8
+wk9: Financieel management
+1. financiële verslagen samenvatting
+III. Meer informatie over de winst-en-verliesrekening
+
+Inkomsten ook wel de "bovenste regel" van een winst- en verliesrekening genoemd, in tegenstelling tot de "onderste regel", die verwijst naar de nettowinst.
+
+Enkele veel voorkomende soorten inkomsten zijn:
+verkopen (van goederen of diensten)
+huurinkomsten
+dividendinkomsten
+renteopbrengst
+
+Inkomsten kunnen worden opgesplitst in operationele en niet-operationele
+inkomsten.
+bedrijfsopbrengsten is het geld dat wordt gegenereerd uit de belangrijkste bedrijfsactiviteiten
+Niet-operationele inkomsten zijn geld dat wordt gegenereerd door iets anders dan de dagelijkse activiteiten, zoals het verdienen van dividenden op je beleggingen.
+
+--- slide 9 ---
+9
+wk9: Financieel beheer
+1. financiële overzichten
+III. Meer informatie over de winst-en-verliesrekening
+
+Een directe kost (is kostprijs van verkochte goederen → COGS) is elke uitgave die je maakt bij het leveren van je diensten of het maken van je producten.
+
+Bijvoorbeeld voor een bedrijf dat keukenkastjes maakt, zijn directe kosten zaken als hout, spijkers en lijm. Als je werknemers hebt die de kasten bouwen, kunnen de kosten voor hun bouwtijd hier ook worden opgenomen.
+zaken als salarissen van werknemers of marketing rekenen we niet tot de directe kosten.
+
+Directe kosten zijn de kosten van dingen die direct worden gebruikt om je product te maken of die tijdens het proces worden verbruikt.
+Een advocaten- of adviesbureau kan zeer lage directe kosten hebben. Afgezien van wat drukwerk en fotokopieën verkopen ze vooral kennis, dus hun directe kosten zijn laag.
+Bedrijven die fysieke producten maken zullen meestal hogere directe kosten hebben.
+
+--- slide 10 ---
+10
+wk9: Financieel beheer
+1. financiële overzichten
+III. Meer informatie over de winst-en-verliesrekening
+
+
+Brutomarge (ook wel brutowinst genoemd) laat zien hoeveel geld er overblijft nadat je je inkomsten hebt gebruikt om al je directe kosten te dekken.
+
+Als je bijvoorbeeld een bad koopt voor $200 en het verkoopt voor $500, dan zou je brutomarge $300 zijn.
+
+
+Een hoge brutomarge betekent dat het je niet veel kost om je product of dienst te leveren en dat je het meeste geld van elke verkoop houdt.
+
+--- slide 11 ---
+11
+wk9: Financieel beheer
+1. financiële overzichten
+III. Meer informatie over de winst-en-verliesrekening
+
+
+Bedrijfskosten zijn de meeste andere kosten waar je aan zou kunnen denken, die niet zijn opgenomen als directe kosten (of kosten van verkochte goederen).
+
+Bedrijfskosten zijn zaken als salarissen van werknemers, marketingkosten, huur, nutsvoorzieningen, administratieve kosten en vracht.
+Eigenlijk alles wat je moet betalen om je bedrijf open te houden, maar dat niet noodzakelijkerwijs op een directe manier bijdraagt aan je product of dienst!
+
+
+N.B. Belastingen en rente op leningen worden niet vermeld als bedrijfskosten, deze worden later opgenomen.
+
+--- slide 12 ---
+12
+wk9: Financieel beheer
+1. financiële overzichten
+III. Meer informatie over de winst-en-verliesrekening
+
+
+Bedrijfsresultaat is wat je overhoudt nadat je je bedrijfskosten hebt afgetrokken van je brutomarge.
+
+Soms wordt het ook EBIT (winst voor rente en belastingen) genoemd.
+
+
+EBIT = Opbrengsten - Kosten - Bedrijfslasten
+	= Netto Inkomen + Rente + Belastingen
+
+waarbij:
+COGS = Kosten van verkochte goederen
+
+--- slide 13 ---
+13
+wk9: Financieel beheer
+1. financiële overzichten
+Nettowinst is de "bottom line" die je overhoudt nadat je al je uitgaven van je inkomsten hebt afgetrokken.
+
+Het wordt ook wel bedrijfswinst, nettowinst of netto-inkomen genoemd.
+
+
+
+voorbeeld van een winst-en-verliesrekening
+voor Tesla Motors Inc, die ze
+noemen:
+	a Geconsolideerd overzicht van activiteiten
+
+--- slide 14 ---
+14
+wk9: Financieel beheer
+1 & 2. financiële overzichten recapitulatie
+IV. Eenvoudig voorbeeld
+met cashflowberekening
+
+
+Deze figuur beschrijft de relatie tussen de kasstroom, de winst-en-verliesrekening en de balans.
+
+--- slide 15 ---
+15
+wk9: Financieel beheer
+1 & 2. financiële overzichten recapitulatie
+IV. Eenvoudig voorbeeld met cashflowberekening
+
+Eigenaars hebben £100,000 geïnvesteerd in een bedrijf dat computers produceert.
+apparatuur werd gekocht voor contant geld ter waarde van £50.000
+materialen ter waarde van £30,000 werden gekocht (op krediet)
+Met behulp van de materialen zijn computers geproduceerd en verkocht voor £40.000 op kredietvoorwaarden.
+
+
+Dus wat is de winst in dit geval?
+
+--- slide 16 ---
+16
+wk9: Financieel beheer
+1 & 2. financiële overzichten recapitulatie
+IV. Eenvoudig voorbeeld met cashflowberekening
+
+Eigenaars hebben £100,000 geïnvesteerd in een bedrijf dat computers produceert.
+apparatuur werd gekocht voor contant geld ter waarde van £50.000
+materialen ter waarde van £30,000 werden gekocht (op krediet)
+Met behulp van de materialen zijn computers geproduceerd en verkocht voor £40.000 op kredietvoorwaarden.
+En wat zijn de totale activa van het bedrijf?
+
+--- slide 17 ---
+17
+wk9: Financieel beheer
+1 & 2. financiële overzichten recapitulatie
+IV. Eenvoudig voorbeeld met cashflowberekeningen
+
+Deze vergelijkingen worden vertaald naar een begin- en eindbalans en winst-en-verliesrekening (allemaal in Britse ponden): ... ...
+
+--- slide 18 ---
+18
+wk9: Financieel beheer
+1 & 2. financiële overzichten recapitulatie
+IV. Eenvoudig voorbeeld met cashflowberekening
+
+In de volgende periode (van 1 jaar)
+
+Van de £40.000 aan verkopen van vorig jaar is de helft contant ontvangen.
+materialen ter waarde van £40,000 werden gekocht op krediet
+er is voor nog eens £20.000 aan verkoop op krediet gerealiseerd met gebruikmaking van voor £15.000 aan materialen
+er is meer apparatuur gekocht voor £50.000
+de oorspronkelijke (vorig jaar) materialen van £30.000 zijn nu betaald
+een banklening van £30.000 is geregeld en het geld is ontvangen
+
+--- slide 19 ---
+19
+wk9: Financieel beheer
+1 & 2. financiële overzichten recapitulatie
+IV. Eenvoudig voorbeeld met cashflowberekeningen
+
+In de volgende periode (van 1 jaar)
+
+Van de £40.000 aan verkopen van vorig jaar is de helft contant ontvangen.
+materialen ter waarde van £40,000 werden gekocht op krediet
+er is voor nog eens £20.000 aan verkoop op krediet gerealiseerd met gebruikmaking van voor £15.000 aan materialen
+er is meer apparatuur gekocht voor £50.000
+de oorspronkelijke (vorig jaar) materialen van £30.000 zijn nu betaald
+een banklening van £30.000 is geregeld en het geld is ontvangen
+
+--- slide 20 ---
+20
+wk9: financieel beheer
+1 & 2. geprojecteerde financiële overzichten
+Om een rationele beslissing te nemen met betrekking tot een voorgestelde strategie, is het noodzakelijk om een idee te hebben van wat de financiële impact zou kunnen zijn.
+
+Geprojecteerde financiële overzichten
+stelt een organisatie in staat om de verwachte resultaten van verschillende acties en benaderingen te onderzoeken
+
+--- slide 21 ---
+21
+wk9: Financieel beheer
+1 & 2. geprojecteerde financiële overzichten
+Een vereenvoudigde geprojecteerde financiële analyse kan in zeven stappen worden beschreven:
+ 
+Winst en verlies
+de geprojecteerde winst- en verliesrekening opstellen (vóór de balans!)
+tenzij er specifieke redenen zijn om andere COGS te projecteren (bijv. in het geval van compleet nieuwe producten of productie), de percentage-van-omzetmethode gebruiken om COGS (en kosten) te projecteren.
+bereken het verwachte netto-inkomen
+van het netto-inkomen alle dividenden aftrekken die voor dat jaar moeten worden betaald
+
+--- slide 22 ---
+22
+wk9: Financieel beheer
+1 & 2. geprojecteerde financiële overzichten
+Een vereenvoudigde geprojecteerde financiële analyse kan in zeven stappen worden beschreven:
+
+Balans
+projecteer de balansposten
+beginnend met ingehouden winst
+en dan voorspellen:
+eigen vermogen
+langlopende schulden, kortlopende schulden, totale schulden
+totaal activa, vaste activa en vlottende activa
+allemaal in die volgorde!
+gebruik de kasrekening als stekkergetal.
+geef commentaar (opmerkingen) op de geprojecteerde overzichten.
+
+--- slide 23 ---
+23
+wk9: Financieel beheer
+3. financiën en concurrentiepositie
+Essentieel voor een succesvolle strategie-ontwikkeling en -implementatie is hoe goed financiën, marketing en operations samenwerken.
+NIET in het boek!
+
+--- slide 24 ---
+24
+wk9: Financieel beheer
+3. financiën en concurrentiepositie
+Financiën
+is veel meer dan boekhouden; het biedt:
+de projecties om de financiële impact van een strategie te beoordelen
+de rapportage van de werkelijke financiële prestaties en de noodzaak om wijzigingen aan te brengen in marketing en bedrijfsvoering
+Operations
+is veel meer dan productie; het levert:
+de praktische randvoorwaarden waarmee een strategie rekening moet houden
+door onder- of overpresteren een verzwakte of versterkte concurrentiepositie (zowel vanuit het oogpunt van klantenbinding als vanuit financieel oogpunt)
+Marketing
+is veel meer dan promoten en verkopen; het biedt
+de strategische richtingen met betrekking tot doelsegmenten en behoeften en wensen waaraan moet worden voldaan
+en als gevolg daarvan, welke operationele resultaten enfinanciële middelen nodig zijn
+NIET in het boek!
+
+--- slide 25 ---
+25
+wk9: Financieel beheer
+4. bedrijfswaardering
+Strategische beslissingen hebben vaak een impact op de (gepercipieerde) waarde van een bedrijf. De gepercipieerde waarde van een bedrijf heeft niet alleen een invloed op de aandeelhouders (via de aandelenprijs), maar ook rechtstreeks op het bedrijf (bv. de kosten om te lenen).
+
+Daarom is het belangrijk om de verwachte impact van een strategie op de waarde van het bedrijf te kennen.
+
+Bedrijfswaardering is echter geen exacte wetenschap; waarde zit soms in het oog van de toeschouwer.
+de waardering van de waarde van een bedrijf is gebaseerd op financiële feiten, maar gezond verstand en een goed beoordelingsvermogen spelen een rol in het proces
+verschillende waarderingsmethoden zullen verschillende resultaten opleveren!
+
+--- slide 26 ---
+26
+wk9: Financieel beheer
+4. bedrijfswaardering
+Enkele populaire evaluatiemethoden:
+
+De methode van de nettowaarde
+Totaal eigen vermogen (SE) - (Goodwill + Immateriële vaste activa)
+
+De netto-inkomstenmethode
+Netto-inkomen × Vijf
+
+Methode koers-winstverhouding
+ (Aandelenprijs ÷ E P S) × Netto-inkomen
+
+Methode voor uitstaande aandelen (= marktkapitalisatie)
+# Aantal uitstaande aandelen × aandelenkoers
+
+--- slide 27 ---
+27
+wk9: Financieel beheer
+4. bedrijfswaardering
+En een andere populaire evaluatiemethode:
+
+Verdisconteerde kasstroom
+Contante waarde van toekomstige kasstromen (-/- schuld + geldmiddelen) 
+
+
+
+
+
+N.B. deze methode is gevoelig voor de gekozen disconteringsvoet.
+
+--- slide 28 ---
+28
+wk9: financieel beheer
+4. bedrijfswaardering
+Voorbeeld:
+De invoergegevens | Blanco
+Eigen vermogen aandeelhouders | $55,778
+Netto-inkomen | $15,326
+Aandelenprijs | $94.17
+E P S | $6.01019
+Aantal uitstaande aandelen | 2,550
+Goodwill | $44,699
+Immateriële activa | $24,187
+De vier waarderingsmethoden | Blanco
+Eigen vermogen minus links tussen haakjes goodwill plus immateriële vaste activa. | $
+Nettoresultaat maal 5. | $
+Linkerhaaks aandelenkoers gedeeld door E P S rechterhaaks maal netto-inkomen. | $
+Aantal uitstaande aandelen maal aandelenprijs. | $
+Methode Gemiddelde | $ ???
+De invoergegevens | Blanco
+Eigen Vermogen | $55,778
+Netto inkomsten | $15,326
+Prijs aandeel | $94.17
+E P S | $6.01019
+Aantal uitstaande aandelen | 2,550
+Goodwill | $44,699
+Immateriële vaste activa | $24,187
+De vier waarderingsmethoden | Blanco
+Eigen vermogen minus links tussen haakjes goodwill plus immateriële vaste activa. | ($13,108)
+Netto-inkomen maal 5. | $76,630
+Links tussen haakjes aandelenkoers gedeeld door E P S rechts tussen haakjes maal netto-inkomen. | $240,134
+Aantal uitstaande aandelen maal aandelenkoers. | $240,134
+Methode Gemiddelde | $135,947
+
+--- slide 29 ---
+29
+wk9: Financieel beheer
+5. Economische toegevoegde waarde (EVA)
+In strategische gevallen waar bedrijfswaardering minder praktisch is, kan het nuttig zijn om de Economische Toegevoegde Waarde (ook wel Economische Winst genoemd) te berekenen.
+
+Het idee erachter is vrij eenvoudig. Als je de waarde van een activiteit wilt weten, moet je niet alleen rekening houden met de nettowinst (na belastingen), maar ook de kosten aftrekken die je maakt op het kapitaal dat erin is geïnvesteerd.
+
+Met andere woorden:
+Als je netto bedrijfswinst na belastingen gelijk is aan de kosten van het geïnvesteerde kapitaal, dan ben je het bedrijf niet echt aan het laten groeien!!!
+
+
+Netto bedrijfswinst na belastingen (NOPAT)
+Kapitaalkosten (geïnvesteerd vermogen x WACC)
+
+EVA = NOPAT - Cc
+EVA = IC x (ROIC - WACC)
+NIET in het boek!
+
+--- slide 30 ---
+30
+wk9: Financieel beheer
+5. Economische toegevoegde waarde (EVA)
+De formules zijn als volgt:
+
+
+EVA = nettobedrijfswinst na belastingen (NOPAT) - kapitaalkosten
+
+of
+
+EVA = Geïnvesteerd kapitaal x (ROIC - WACC)
+
+
+Waarin:
+Kapitaallast (Cc) = Geïnvesteerd kapitaal x WACC
+WACC - Gewogen gemiddelde kapitaalkosten
+ROIC- Rendement op Geïnvesteerd Kapitaal
+NIET in het boek!
+
+--- slide 31 ---
+31
+wk9: Financieel beheer
+Opdracht: EVA
+Stel dat het FP&A team van een beursgenoteerd bedrijf de opdracht krijgt om te bevestigen dat een project inderdaad positieve economische waarde heeft gecreëerd voor hun aandeelhouders.
+Het geïnvesteerde kapitaal aan het begin van de periode was $50 miljoen, terwijl de kapitaalkosten (WACC) 8,0% zijn.
+In het eerste jaar waarin het project volledig operationeel was, werd $10 miljoen aan EBIT (Earning before interest and Tax) gegenereerd. Je kunt uitgaan van een toepasselijk belastingtarief van 20,0%.
+
+Bereken de nettobedrijfswinst na belastingen (NOPAT).
+Bereken de kapitaalkosten.
+Bereken de EVA. Wat is je conclusie?
+Bereken de EVA voor een geïnvesteerd vermogen van $ 65 miljoen, een WACC van 10% en een EBIT van $ miljoen. Wat is nu je conclusie?
+
+--- slide 32 ---
+32
+wk9: Financieel beheer
+6. Pitch deck
+Je hebt een strategie, maar zonder buy-in van het bestuur heeft het geen enkele waarde. Een veelgebruikte manier om uw ideeën over te brengen is via een Pitchdeck.
+NIET in het boek!
+Introductie | Wat is je bedrijf en unieke waardepropositie?
+Probleem | Wie zijn je doelgroep; Wat is hun probleem? (+ bewijs dat het bestaat)
+Oplossing | Hoe lost het product/de dienst het probleem op? (efficiënt)
+Marktkans | Wat is de omvang van de markt en de doelgroep?
+Traction | Indien relevant, wat zijn je groeicijfers?
+Team | Wat zijn de bewezen vaardigheden en ervaringen van de teamleden?
+Financiële projecties | Wat zijn de realistische financiële prognoses en eisen?
+
+--- slide 33 ---
+33
+wk9: Financieel beheer
+6. Pitchdeck
+Presentatie Tips
+Houd het beknopt: streef naar 10 tot 12 dia's die je dwingen om focus/helderheid te behouden
+Visuele aantrekkingskracht: houd het eenvoudig en visueel aantrekkelijk (maar leid niet af)
+Vertel een verhaal: maak gebruik van story-telling
+Data-gedreven: deel inzichten en onderbouw claims met harde data
+
+Veelgemaakte fouten om te vermijden
+Informatie overbelasting: zet niet te veel details op de dia's
+Het publiek verwaarlozen: pas je pitch aan je specifieke publiek aan
+Design negeren: zorg voor een visuele consistentie (verhaal + merk)
+
+Een goed gemaakt pitchdeck presenteert niet alleen je bedrijfsidee, maarcreëert ook betrokkenheid bij je publiek, waardoor het een cruciaalhulpmiddel is om buy-in te krijgen.
+NIET in het boek!
+
+--- slide 34 ---
+34
+wk9: Financieel beheer
+6. Pitchdeck – handige modellen
+Uw publiek moet eerst uw onderwerp begrijpen en zich ermee identificeren. Begin dus met een bekend startpunt (de Situatie). Vervolgens slaat u alarm (de Complicatie). Hierdoor voelt het publiek de urgentie van je verhaal: er moet iets gebeuren! De vraag (Question) zorgt voor focus en maakt nieuwsgierig. Het verhaal wordt afgesloten met het Antwoord.
+SCQA framework
+Situation: Functioneert als uitgangspunt en gemeenschappelijke basis. Daarom bevat het vooral herkenbare en afgesproken punten.
+Complication: Beschrijft de reden om nu te handelen. Het bevat bedreigingen/kansen en de hindernissen die overwonnen moeten worden.
+Question: Stelt de vraag hoe de hindernissen van de Complicatie overwonnen kunnen worden. Hoe kan de dreiging voorkomen worden of de kans gegrepen?
+Answer: Geeft het antwoord op de vraag hoe de hindernissen teoverwinnen. Legt uit hoe dit zal helpen de bedreigingen af tewenden of de kansen te grijpen.
+NIET in het boek!
+
+--- slide 35 ---
+35
+wk9: Financieel beheer
+6. Pitchdeck – handige modellen
+Het Pyramide Principe (belangrijkste punten)
+Begin eerst met het antwoord.Leidinggevenden zijn vaak ongeduldig en willen naar het grote geheel kijken. Hiermee kom je sneller ter zake en zorg je voor een top-down perspectief. Ten slotte zorgt het ervoor dat je assertiever en zelfverzekerder overkomt.
+Groepeer en vat je ondersteunende argumenten samen.“Ideeën op elk niveau in de piramide moeten altijd samenvattingen zijn van de ideeën die eronder zijn gegroepeerd.”
+Orden je ondersteunende ideeën logisch.Ten slotte wil je ervoor zorgen dat de ideeën die je onder elke groep samenbrengt, ook echt bij elkaar horen, even belangrijk zijn en een logische structuur volgen. Er zijn een paar verschillende manieren om ideeën te groeperen:
+Tijdsvolgorde: als er een sequentie is met een oorzaak-gevolgrelatie, gebruik tijdsvolgorde.
+Structuur volgorde: breek een enkelvoudige gedachte op in delen (& ondersteun alle belangrijke ideeën).
+Volgorde van belangrijkheid: presenteer ondersteunende ideeën van meest naar minst belangrijk.
+NIET in het boek!
+
+--- slide 36 ---
+36
+wk9: Financieel beheer
+6. Pitchdeck – like a pro
+NIET in het boek!
+
+--- slide 37 ---
+37
+wk9: Financieel beheer
+Praktijkopdracht
+Op basis hiervan en de eerdere opdrachten moet je een Pitch Deck maken.
+
+
+voorbeeldsjablonen van Pitch Decks kun je op Blackboard vinden.
+
+--- slide 38 ---
+38
+wk9: Financieel beheer
+Praktijkopdracht
+Begin te werken aan het gedetailleerde financiële gedeelte van je strategie (zie Blackboard voor gedetailleerde vereisten voor dit gedeelte)
+
+--- slide 39 ---
+39
+wk9: Financieel beheer
+bijna alle strategische beslissingen hebben een aanzienlijke financiële impact op korte of langere termijn
+
+Als gevolg hiervan is het onverantwoord (en vaak gevaarlijk) om een strategie te volgen zonder inzicht in de financiële gevolgen.
+
+concepten als bedrijfswaardering en economische winst zijn manieren om de impact van een strategie te beschrijven met een enkel financieel getal (hoewel andere financiële en niet-financiële overwegingen ook belangrijk zijn)
+Overzicht week 9
+
+--- slide 40 ---
+40
+wk9: Financieel beheer
+Huiswerk
+Lezen:
+hoofdstuk 8 (LO 8.2, 8.3)
+
+Praktijkopdracht
+week 9 opdrachten (N.B. de opdrachten vanweek 6, 7, 8 en 9 moeten geupload worden)
+
+
+
+wees klaar om je Pitch deck volgende week te presenteren (of, afhankelijk van het aantal teams, de week daarna)

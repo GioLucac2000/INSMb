@@ -1,0 +1,456 @@
+### FILE INSM_wk2_student — 34 slides
+
+--- slide 1 ---
+Internationaal
+Strategisch Management
+deel II
+1
+Week 2: Externe analyse
+
+--- slide 2 ---
+2
+de opbouw van het vak, de op te leveren producten en de toetsing
+
+
+de rol van strategisch management in een organisatie
+
+
+Visie & missie
+Vorige week hebben we besproken
+Week 2: Externe analyse
+
+--- slide 3 ---
+
+
+--- slide 4 ---
+4
+Week 2: Externe analyse
+in staat om een grondige externe analyse van een bedrijf uit te voeren.
+na deze week ben je…
+
+--- slide 5 ---
+5
+Week 2: Externe analyse
+de relatie tussen externe krachten en de organisatie (Figuur 3.2)
+
+Externe krachten (LO 3.2)
+
+Vijfkrachtenmodel (Porter) (LO 3.3)
+
+belangrijke bronnen voor een externe audit (LO 3.4)
+
+de EFE-matrix (LO 3.6)
+
+de Concurrentieprofielmatrix (LO 3.7)
+onderwerpen die je hierbij zullen helpen zijn:
+
+--- slide 6 ---
+6
+Week 2: Externe analyse
+1. Externe krachten ~ organisatie
+
+--- slide 7 ---
+7
+Week 2: Externe analyse
+2. externe krachten
+De 10 externe krachten  worden vaak ingedeeld in 5 groepen:
+
+economisch
+sociaal, cultureel, demografisch en ecologisch (SCDE)
+politiek, overheids- en juridisch
+technologisch
+concurrerend
+
+
+
+
+N.B. bovenstaande heeft overlap met modellen zoals DEPEST, DESTEP, PESTLE, etc.
+terug
+
+--- slide 8 ---
+8
+Week 2: Externe analyse
+2. externe krachten
+I. voorbeelden van economische krachten:
+
+verschuiving naar een diensteneconomie
+inkomensniveaus en factoren die van invloed zijn op het besteedbaar inkomen
+consumptiepatronen & trends in werkloosheid
+wisselkoersen
+trends op de effectenbeurs
+variabele belastingtarieven per land en staatbeleid van de Europese Economische Gemeenschap (EEG)
+beleid van de Organisatie van Olie-exporterende Landen (OPEC)
+belangrijke geopolitieke ontwikkelingen
+enz., enz., enz.
+
+--- slide 9 ---
+9
+Week 2: Externe analyse
+2. externe krachten
+II. voorbeelden van SCDE-krachten:
+
+veranderingen in de bevolking op basis van ras, leeftijd, geografisch gebied, relatiestatus, levensverwachting, leeftijdsverdeling, etc.
+attitudes ten opzichte van productkwaliteit, klantenservice, energiebesparing, buitenlandse mensen, milieu en duurzaamheid, etc.
+kwesties op het gebied van maatschappelijke verantwoordelijkheid en sociale programma's, aantal kerken en kerkleden.
+verdeling van rijkdom, etc.
+
+--- slide 10 ---
+10
+Week 2: Externe analyse
+2. externe krachten
+III. politieke, overheids- en juridische krachten:
+
+milieuregels 
+protectionisme door landen 
+wijzigingen in octrooiwetten 
+wetten inzake gelijke werkgelegenheidskansen 
+niveau van defensie-uitgaven 
+mededingingswetgeving 
+relaties tussen landen en politieke omstandigheden 
+wereldwijde olieprijs en beschikbaarheid van zeldzame hulpbronnen 
+verkiezingen 
+enz., enz.
+
+--- slide 11 ---
+11
+Week 2: Externe analyse
+2. externe krachten
+IV. nieuwe technologieën stimuleren innovatie:
+
+het Internet der Dingen, de cloud, mobiele apparaten
+analyse, robotica, kunstmatige intelligentie
+3D-printen, biotechnologie, autotechnologie
+enz., enz.
+
+
+
+Veel bedrijven hebben nu een Chief Information Officer (CIO) en een Chief Technology Officer (CTO).
+
+--- slide 12 ---
+12
+Week 2: Externe analyse
+2. externe krachten
+V. concurrerende krachten:
+
+bedrijven die (gedeeltelijk) alternatieve oplossingen bieden worden gezien als rivaliserende bedrijven; het is belangrijk om te begrijpen:
+hun capaciteiten (sterktes & zwaktes),
+hoe kansen & bedreigingen hen beïnvloeden.
+en hun doelstellingen en strategieën
+
+--- slide 13 ---
+13
+Week 2: Externe analyse
+2. externe krachten
+V. belangrijke onderwerpen m.b.t. concurrentie:
+
+sterktes en zwaktes van onze belangrijkste concurrenten?
+wat bieden wij uniek in de industrie?
+doelstellingen en strategieën van onze belangrijkste concurrenten?
+de mogelijke reactie van belangrijke concurrenten op verschillende externe factoren
+kwetsbaarheid van belangrijke concurrenten voor onze (nieuwe) strategieën, producten/diensten
+kwetsbaarheid van ons bedrijf voor succesvolle tegenacties door concurrenten
+onze relatieve sterkte/zwakte in het sociale-media gesprek (in deze industrie)
+nieuwe bedrijven die toetreden en oude bedrijven die de industrie verlaten
+belangrijke factoren die onze huidige concurrentiepositie verklaren
+wijzigingen in leveranciers- en distributeursrelaties in de industrie
+
+--- slide 14 ---
+14
+Week 2: Externe analyse
+2. externe krachten
+V. hoe krijg je (juridisch en ethisch) concurrentie-informatie?
+
+producten van rivaliserende bedrijven reverse-engineeren 
+gebruik maken van enquêtes en interviews met klanten, leveranciers en distributeurs van rivaliserende bedrijven 
+analyseer de juridische documenten van rivaliserende bedrijven 
+uitvoeren van mystery shopping bij hun operaties (mystery shopping?) 
+zoeken in online databases. contact opnemen met overheidsinstanties voor openbare informatie over rivaliserende bedrijven 
+monitoren van relevante vakpublicaties, tijdschriften en kranten 
+aankoop van sociale-media gegevens over klanten van alle bedrijven in de sector 
+het aannemen van topmanagers van rivaliserende bedrijven
+
+--- slide 15 ---
+15
+Week 2: Externe analyse
+2. externe krachten
+Om te bepalen of een factor belangrijk is, moeten we de AQCD-test uitvoeren:
+
+Actionable → wordt verwacht dat het helpt bij de beslissing welke acties/strategieën het bedrijf moet overwegen?
+
+Quantitative → omvat het (zo veel mogelijk) cijfers (bijv. geld, ratio's, percentages, etc.)
+
+Comparative → toont het veranderingen in de tijd?
+
+Divisional → kan het worden verbonden met specifieke productgroepen en/of regio's, of vertelt de factor alleen een geconsolideerd verhaal.
+
+Een factor van hoge kwaliteit voldoet aan 3 of 4 criteria.
+terug
+
+--- slide 16 ---
+16
+wk2: Externe analyse
+Praktijkopdracht
+Om een start te maken met je praktijkopdracht:
+Kies een van de 5 groepen externe krachten en noem 3 belangrijke (= relevante) krachten
+Pas de AQCD-test toe op die 3 krachten
+Wat is jouw conclusie en onderbouw deze?
+
+--- slide 17 ---
+17
+Week 2: Externe analyse
+3. Vijfkrachtenmodel (Porter)
+Porter's model voor het bepalen van marktattractiviteit.
+
+--- slide 18 ---
+18
+Week 2: Externe analyse
+3. Vijfkrachtenmodel (Porter)
+Rivaliteit tussen concurrerende bedrijven (meest krachtige!)
+
+factoren die een hoge rivaliteit kunnen veroorzaken
+groot aantal 
+concurrerende bedrijven concurrerende bedrijven van vergelijkbare omvang en/of capaciteiten 
+snel veranderende vraag naar producten van de sector 
+frequente prijsverlagingen
+gemakkelijk voor consumenten om van merk te wisselen (praktisch en emotioneel) 
+hoge uitstapkosten of lage toetredingsdrempels tot de markt 
+hoge vaste kosten 
+bederfelijke of korte levenscyclus producten
+
+--- slide 19 ---
+19
+Week 2: Externe analyse
+3. Vijfkrachtenmodel (Porter)
+Potentiële toetreding van nieuwe concurrenten.
+
+Kwaliteit, prijsstelling en marketing kunnen barrières overwinnen.
+
+snel schaalvoordelen behalen
+behoefte aan technologie, gespecialiseerde knowhow of gebrek aan ervaring
+sterke klantenloyaliteit en/of sterke merkvoorkeuren
+grote kapitaalvereisten, gebrek aan toegang tot grondstoffen, bezit van octrooien
+gebrek aan adequate distributiekanalen en/of ongewenste locaties
+tegenaanval door ingevoerde bedrijven
+potentiële verzadiging van de markt
+Overheidsbeleid regulering & tarieven
+
+--- slide 20 ---
+20
+Week 2: Externe analyse
+3. Vijfkrachtenmodel (Porter)
+Onderhandelingsmacht van leveranciers
+
+De onderhandelingsmacht van leveranciers wordt vergroot wanneer sprake is van:
+
+Weinig leveranciers
+Weinig substituten
+Hoge overstapkosten
+
+
+
+
+Achterwaartse integratie is het verkrijgen van controle over of eigendom van leveranciers!
+
+--- slide 21 ---
+21
+Week 2: Externe analyse
+4. Belangrijke bronnen voor een externe audit
+Bronnen van externe informatie
+
+Ongepubliceerde bronnen: klantenenquêtes, marktonderzoek, toespraken op professionele en aandeelhoudersvergaderingen, televisieprogramma's, interviews en gesprekken met belanghebbenden.
+
+Gepubliceerde bronnen: tijdschriften, rapporten, overheidsdocumenten, samenvattingen, boeken, directories, kranten en handleidingen.
+I B I S World, Lexis-Nexis Academic, Lexis-Nexis Company Dossier, Mergent Online, PrivCo, Regional Business News, S&P NetAdvantage, Value Line Investment Survey, U.S. Securities and Exchanges Commission
+Company Annual Reports On-Line (C A R O L), Linkedin, conference papers
+etc., etc.
+
+--- slide 22 ---
+22
+Week 2: Externe analyse
+intermezzo – omgaan met onzekerheid
+Voorspellingen
+  
+zijn goed onderbouwde aannames over toekomstige trends en gebeurtenissen, EN geen enkele voorspelling is perfect.
+voorspellen is complex en er zijn (meestal) onvoorziene gebeurtenissen.
+
+Aannames
+
+planning zou onmogelijk zijn zonder aannames.
+
+aannames kunnen worden gezien als de "beste huidige schattingen van de impact van belangrijke externe factoren.
+de manager heeft weinig of geen controle over die factoren.
+de factoren kunnen een significante impact hebben op de prestaties van het bedrijf (of het vermogen om gewenste resultaten te behalen)
+
+--- slide 23 ---
+23
+Week 2: Externe analyse
+5. De EFE-matrix
+Industrieanalyse: De External Factor Evaluation Matrix
+
+
+Het biedt een beoordeling van hoe goed een bedrijf omgaat met externe factoren in het algemeen!
+
+Onthoud de 10 externe factoren:
+economisch
+sociaal, cultureel, demografisch, ecologisch(SCDE)
+politiek, overheids- en juridisch
+technologisch
+concurrerend
+
+--- slide 24 ---
+24
+Week 2: Externe analyse
+5. De EFE-matrix
+Industrieanalyse: De External Factor Evaluation Matrix.
+
+
+De EFE-matrix kan in vijf (eigenlijk 6) stappen worden ontwikkeld.
+
+0.  beschrijf een volledige lijst van kansen en bedreigingen (~50 tot 100)
+maak een lijst van 20 belangrijke externe factoren (10 kansen en 10 bedreigingen)
+weeg de factoren van 0,0 tot 1,0 (zodat het totaal exact 1,0 bedraagt)
+beoordeel de effectiviteit van de huidige strategieën van 1-4→ 1: slecht, 2: gemiddeld, 3: bovengemiddeld, 4: uitstekend
+Vermenigvuldig gewicht * beoordeling
+Tel de gewogen scores op:
+2,5 wordt als gemiddeld beschouwd
+ruim onder de 2,5 geeft aan dat een bedrijf zwak is in het reageren op externe factoren
+ruim boven de 2,5 geeft aan dat een bedrijf sterk is in het reageren op externe factoren
+
+--- slide 25 ---
+25
+VOORBEELD: de EFE-matrix voor een lokaal 10-bioscoopcomplex
+Key External Factors | Gewicht | Score | Gewogen score
+Kansen | Blank | Blank | Blank
+1. Twee nieuwe buurten ontwikkelen zich binnen een straal van 3 mijl. | 0,09 | 1 | 0,09
+2. TDB Universiteit groeit jaarlijks met 6%. | 0,08 | 4 | 0,32
+3. Grote concurrent aan de andere kant van de stad is recentelijk gesloten. | 0,08 | 3 | 0,24
+4. De vraag naar bioscoopbezoek groeit met 10% | 0,07 | 2 | 0,14
+5. Het besteedbaar inkomen van de inwoners is het afgelopen jaar met 5% gestegen. | 0,06 | 3 | 0,15
+6. De bevolking van Rowan County groeit jaarlijks met 8%. | 0,05 | 3 | 0,15
+7. Het werkloosheidspercentage in de provincie is gedaald tot 3,1% | 0,03 | 2 | 0,06
+
+--- slide 26 ---
+Key External Factors | Gewicht | Score | Gewogen score
+Bedreigingen | Blank | Blank | Blank
+8. De trend naar gezond eten ondermijnt de verkoop van concessies | 0,12 | 4 | 0,48
+9. De vraag naar online films en dvd's groeit met 10% | 0,06 | 2 | 0,12
+10. Commercieel vastgoed naast de bioscopen te koop | 0,06 | 3 | 0,18
+11. TDB Universiteit installeert een bioscoop op de campus | 0,04 | 3 | 0,12
+12. De onroerendgoedbelasting van de provincie en de stad stijgt met 25% | 0,08 | 2 | 0,6
+13. Lokale religieuze groepen hebben bezwaar tegen films met een R-rating | 0,04 | 3 | 0,12
+14. Het aantal films dat bij lokale Red Box-automaten wordt gehuurd, is met 12% gestegen | 0,08 | 2 | 0,16
+15. Het aantal films dat het afgelopen kwartaal bij Time Warner is gehuurd, is met 15% gestegen | 0,06 | 1 | 0.06
+Totaal | 1.00 | Blank | 2,58
+26
+VOORBEELD: de EFE-matrix voor een lokaal 10-bioscoopcomplex
+
+--- slide 27 ---
+27
+Week 2: Externe analyse
+5. De EFE-matrix
+Industrieanalyse: De External Factor Evaluation Matrix.
+
+
+De EFE-matrix kan in vijf (eigenlijk 6) stappen worden ontwikkeld.
+
+0.  beschrijf een volledige lijst van kansen en bedreigingen (~50 tot 100)
+maak een lijst van 20 belangrijke externe factoren (10 kansen en 10 bedreigingen)
+weeg de factoren van 0,0 tot 1,0 (zodat het totaal exact 1,0 bedraagt)
+beoordeel de effectiviteit van de huidige strategieën van 1-4→ 1: slecht, 2: gemiddeld, 3: bovengemiddeld, 4: uitstekend
+Vermenigvuldig gewicht * beoordeling
+Tel de gewogen scores op:
+2,5 wordt als gemiddeld beschouwd
+ruim onder de 2,5 geeft aan dat een bedrijf zwak is in het reageren op externe factoren
+ruim boven de 2,5 geeft aan dat een bedrijf sterk is in het reageren op externe factoren
+
+In de voorgaande sheet staat 2.58 voor het lokale bioscoopcomplex.
+
+Wat is je conclusie?
+
+Wat betekent dit eigenlijk?
+
+--- slide 28 ---
+28
+Week 2: Externe analyse
+6. Competitive Profile Matrix
+Industrieanalyse: De Competitive Profile Matrix (CPM)…
+
+
+identificeert de belangrijkste concurrenten van een bedrijf en hun sterke en zwakke punten in relatie tot de strategische posities van een voorbeeldbedrijf (in belangrijke factoren).
+
+Onthoud de 10 externe factoren? Dit over de laatste factor!
+economisch
+sociaal, cultureel, demografisch, ecologisch (SCDE)
+politiek, overheids- en juridisch
+technologisch
+concurrerend
+
+--- slide 29 ---
+29
+Week 2: Externe analyse
+6. Competitive Profile Matrix
+Industrieanalyse: Competitive Profile Matrix (CPM)
+
+
+De CPM kan in vijf (eigenlijk 6) stappen worden ontwikkeld.
+
+0.  beschrijf de belangrijkste specifieke (!) concurrentiefactoren die belangrijk zijn binnen de industrie (= CSF's, Critical Success Factors; gebruik minimaal 12 factoren) 
+weeg de factoren van 0,0 tot 1,0 (zodat het totaal exact 1,0 bedraagt)
+beoordeel de effectiviteit van de strategieën van elk bedrijf van 1-4→ 1: slecht, 2: gemiddeld, 3: bovengemiddeld, 4: uitstekend
+Vermenigvuldig gewicht * beoordeling
+Tel de gewogen scores op:
+2.5 wordt als gemiddeld beschouwd
+ruim onder de 2,5 geeft aan dat een bedrijf zwak is in het reageren op externe factoren.
+ruim boven de 2,5 geeft aan dat een bedrijf sterk is in het reageren op externe factoren.
+
+--- slide 30 ---
+30
+Een voorbeeld van een Competitive Profile Matrix
+Let op: De waarderingen zijn als volgt: 1 = reactie is zwak, 2 = reactie is gemiddeld, 3 = reactive is bovengemiddeld, 4 = reactie is uitstekend. Zoals aangegeven door de totale gewogen score van 2,20, presteert Bedrijf 3 het slechtst. oor de eenvoud zijn slechts 8 kritieke succesfactoren opgenomen; in werkelijkheid zijn dit er echter te weinig. De factoren moeten worden afgestemd op een specifieke bedrijfstak.
+
+--- slide 31 ---
+31
+Week 2: Externe analyse
+Opdracht: CPM (deel 1)
+Kies een bedrijf en industrie waarmee je bekend bent (niet het bedrijf dat je gebruikt voor je praktische opdracht!)
+Maak een lijst van de 2 belangrijkste concurrenten van het bedrijf 
+Welk van die 3 bedrijven is volgens jou het sterkst en welk het zwakst?
+Beschrijf de verschillen die het antwoord op 3 verklaren.
+
+--- slide 32 ---
+32
+Week 2: Externe analyse
+Opdracht: CPM (deel 2)
+Beschrijf de 5 belangrijkste concurrentiefactoren voor deze industrie.
+Weeg de factoren van 0,0 tot 1,0 (zodat het totaal exact 1,0 bedraagt)
+Beoordeel de effectiviteit van het gekozen bedrijf en de 2 belangrijkste concurrenten op een schaal van 1-4→ 1: slecht, 2: gemiddeld, 3: bovengemiddeld, 4: uitstekend
+Vermenigvuldig gewicht * beoordeling en tel de gewogen scores op.
+Wat zijn je conclusies?
+Hoe verhouden de conclusies van deel 2 zich tot die van deel 1?
+laat zien wat je hebt gedaan in een PowerPoint en presenteer het
+
+--- slide 33 ---
+33
+Week 2: Externe analyse
+Er zijn belangrijke externe krachten (DEPEST, PESTLE, etc.) die de directe omgeving van een bedrijf en het bedrijf zelf beïnvloeden.
+Om deze factoren te beoordelen zijn er verschillende interne en externe informatiebronnen.
+Deze informatie kan in verschillende modellen worden gebruikt om conclusies te trekken over het bedrijf.
+Het Vijfkrachtenmodel (Porter) kan inzicht geven in de aantrekkelijkheid van markten.
+de External Factor Evaluation (EFE) matrix geeft aan hoe goed een bedrijf omgaat met externe factoren.
+de Competitive Profile Matrix kan aangeven hoe sterk/zwak je bent in vergelijking met je belangrijkste concurrenten.
+Overzicht week 2
+
+--- slide 34 ---
+34
+Week 2: Externe analyse
+Huiswerk
+Lees:
+Hoofdstuk 3 (figuur 3.2, LO 3.2, 3.3), 3.4, 3.6, 3.7)
+
+
+
+Praktijkopdracht
+maak een EFE-matrix en een CPM volgens de beschrijving in het bestand Praktijkopdracht:
+“I. External analysis: External Factor Evaluation Matrix (EFE Matrix) [week 2]”
+“I. External analysis: Competitive Performance Matrix (CPM) [week 2]”
+bespreek in je team wat de betekenis is van de uitkomsten van bovenstaande analyse'

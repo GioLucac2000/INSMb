@@ -1,0 +1,362 @@
+### FILE INSM_wk6_student — 34 slides
+
+--- slide 1 ---
+Internationaal
+Strategisch Management
+Deel II
+1
+wk6: Strategische keuze
+
+--- slide 2 ---
+2
+enkele factoren die je moet opnemen om op een hoog niveau opties te kunnen uitwerken en beschrijven
+Vorige week bespraken we
+wk6: Strategische keuze
+
+--- slide 3 ---
+
+
+--- slide 4 ---
+4
+wk6: Strategische keuze
+een onderbouwde keuze maken welke optie het bedrijf zou moeten nastreven
+Na deze week kun je …
+
+--- slide 5 ---
+5
+wk6: Strategische keuze
+introductie
+
+De SWOT matrix als hulpmiddel om het externe met het interne te integreren (LO 6.3)
+
+De SPACE matrix om de meest geschikte strategiesoort te bepalen (LO 6.4)
+
+De BCG matrix om het portfolio van het bedrijf te beoordelen (LO 6.5)
+
+Kostenschatting (tabel 6.6)
+Onderwerpen die je daarbij helpen zijn:
+
+--- slide 6 ---
+6
+wk6: Strategische keuze
+1. introductie
+Om een rationele en onderbouwde keuze te maken, is het belangrijk om tools en frameworks te gebruiken die ons in staat stellen om:
+
+de situatie en de positie waarin het bedrijf zich bevindt te analyseren (→ SWOT)
+het soort strategie te bepalen dat het meest geschikt is (→ SPACE)
+
+Het resultaat van een nieuwe bedrijfsstrategie is altijd een verandering in activiteiten (door nieuwe dingen te doen, te veranderen wat/hoe dingen worden gedaan of activiteiten te stoppen). Dit betekent dat het belangrijk is om te begrijpen: 
+
+hoe een nieuwe activiteit past in het totale portfolio van het bedrijf (→ BCG)
+
+Ten slotte is het absoluut cruciaal om de kostenimpact van de nieuwe activiteiten te beoordelen (ten minste op een hoog niveau).
+
+--- slide 7 ---
+7
+wk6: Strategische keuze
+1. introductie
+In de praktijk verbetert het ontwikkelen van meerdere alternatieven de kwaliteit van de uiteindelijke keuze.
+Er moet een reeks van de meest aantrekkelijke alternatieve strategieën worden ontwikkeld
+Het identificeren en evalueren van alternatieve strategieën moet veel van de managers en medewerkers betrekken die eerder bij de strategische activiteiten betrokken waren.
+Alternatieve strategieën die door deelnemers worden voorgesteld, moeten worden overwogen en besproken in een reeks van vergaderingen.
+
+De voordelen, nadelen, afwegingen, kosten en baten van deze strategieën moeten worden bepaald.
+Wanneer alle haalbare strategieën zijn gepresenteerd en begrepen, moeten ze worden gerangschikt op volgorde van aantrekkelijkheid.
+
+--- slide 8 ---
+8
+wk6: Strategische keuze
+1. introductie
+In theorie kunnen strategieën in 3 fasen worden ontwikkeld (zie hieronder). Voor deze module hebben we echter het aantal tools en fasen verminderd (zie volgende slide).
+
+--- slide 9 ---
+9
+wk6: Strategische keuze
+1. introductie
+phase I
+phase II
+
+--- slide 10 ---
+10
+wk6: Strategische keuze
+2. SWOT
+De SWOT is een van de meest gebruikte tools om relevante interne en externe kwesties te identificeren. Het combineren van de externe en interne dimensies in een SWOT-matrix verhoogt de waarde van de SWOT aanzienlijk. Het helpt managers om vier soorten strategieën te ontwikkelen: 
+
+S  O (strengths-opportunities) Strategieën
+Gebruik de interne sterktes van een bedrijf om externe kansen te benutten
+W  O (weaknesses-opportunities) Strategieën
+Gericht op het verbeteren van interne zwaktes door gebruik te maken van externe kansen
+S  T (strengths-threats) Strategieën
+Gebruik de sterktes van een bedrijf om externe bedreigingen te vermijden of de impact ervan te verminderen
+W  T (weaknesses-threats) Strategieën
+Defensieve tactiek gericht op het verminderen van interne zwaktes en het vermijden van externe bedrijgingen
+
+--- slide 11 ---
+11
+wk6: Strategische keuze
+2. SWOT
+Example of a SWOT for Retail Computer Store
+
+--- slide 12 ---
+12
+wk6: Strategische keuze
+3. De SPACE-matrix
+De Strategic Position and ACtion Evaluation Matrix verbindt:
+2 interne dimensies (financial position [FP] en competitive position [CP])
+En 2 externe dimensie (stability position [SP] en industry position [IP])
+
+
+
+deze worden beschouwd als de belangrijkste determinanten van de algehele strategische positie van een organisatie
+
+--- slide 13 ---
+13
+wk6: Strategische keuze
+3. De SPACE-matrix
+De SPACE Matrix is een vierkwadranten raamwerk dat aangeeft welke soorten strategieën het meest geschikt zijn voor een bepaalde organisatie:
+
+aggressief
+
+conservatief
+
+defensief
+
+competitief
+
+--- slide 14 ---
+14
+wk6: Strategische keuze
+3. De SPACE-matrix
+De SPACE-matrix wordt in de volgende 6 stappen gecreeërd:
+
+Selecteer een reeks variabelen om de financiële positie (FP), concurrentiepositie (CP), stabiliteitspositie (SP) en industriepositie (IP) te definiëren.
+Ken een numerieke waarde toe aan de dimensies. 
+N.B. Gebruik +1 (slechtst) tot +7 (best) voor de FP- en IP-dimensies en −1 (best) tot −7 (slechtst) voor de variabelen van de SP- en CP-dimensies.
+
+--- slide 15 ---
+15
+wk6: Strategische keuze
+3. De SPACE-matrix
+De SPACE-matrix wordt in de volgende 6 stappen gecreeërd:
+
+Selecteer een reeks variabelen om de financiële positie (FP), concurrentiepositie (CP), stabiliteitspositie (SP) en industriepositie (IP) te definiëren.
+Ken een numerieke waarde toe aan de dimensies. 
+N.B. Gebruik +1 (slechtst) tot +7 (best) voor de FP- en IP-dimensies en −1 (best) tot −7 (slechtst) voor de variabelen van de SP- en CP-dimensies.
+Bereken een gemiddelde score voor FP, CP, IP, en SP.
+Plot de gemiddelde scores voor FP, IP, SP, en CP op de juiste as.
+
+--- slide 16 ---
+16
+wk6: Strategische keuze
+3. De SPACE-matrix
+De SPACE-matrix wordt in de volgende 6 stappen gecreeërd:
+
+Selecteer een reeks variabelen om de financiële positie (FP), concurrentiepositie (CP), stabiliteitspositie (SP) en industriepositie (IP) te definiëren.
+Ken een numerieke waarde toe aan de dimensies. 
+N.B. Gebruik +1 (slechtst) tot +7 (best) voor de FP- en IP-dimensies en −1 (best) tot −7 (slechtst) voor de variabelen van de SP- en CP-dimensies.
+Bereken een gemiddelde score voor FP, CP, IP, en SP.
+Plot de gemiddelde scores voor FP, IP, SP, en CP op de juiste as.
+
+--- slide 17 ---
+17
+wk6: Strategische keuze
+3. De SPACE-matrix
+De SPACE-matrix wordt in de volgende 6 stappen gecreeërd:
+
+Selecteer een reeks variabelen om de financiële positie (FP), concurrentiepositie (CP), stabiliteitspositie (SP) en industriepositie (IP) te definiëren.
+Ken een numerieke waarde toe aan de dimensies. 
+N.B. Gebruik +1 (slechtst) tot +7 (best) voor de FP- en IP-dimensies en −1 (best) tot −7 (slechtst) voor de variabelen van de SP- en CP-dimensies.
+Bereken een gemiddelde score voor FP, CP, IP, en SP.
+Plot de gemiddelde scores voor FP, IP, SP, en CP op de juiste as.
+Tel de twee scores op de x-as op en plot het resulterende punt op de X-as. Tel de twee scores op de y-as op en plot het resulterende punt op de Y-as. Plot het snijpunt van het nieuwe x-y-punt.
+Trek een richtingsvector van de oorsprong van de SPACE-matrix door het nieuwe snijpunt.
+Deze vector onthult het type strategieën dat wordt aanbevolen voor de organisatie: agressief, competitief, defensief of conservatief
+
+--- slide 18 ---
+18
+wk6: Strategische keuze
+3. De SPACE-matrix
+Voorbeeldfactoren die de assen van de S P A C E-matrix vormen:
+Interne strategische positie | Externe strategische positie
+Financiële positie (F P) | Stabiliteit Positie (S  P)
+Rendement op investering | Technologische veranderingen
+Hefboomwerking | Inflatiepercentage
+Liquiditeit | Vraagvariabiliteit
+Werkkapitaal | Prijsbereik van de concurrerende producten
+Kasstroom | Toetredingsdrempels op de markt
+Omloopsnelheid van de voorraad | Concurrentiedruk
+Winst per aandeel | Gemak van uittreding uit de markt
+Koers-winstverhouding | Risico's verbonden aan het bedrijf
+
+--- slide 19 ---
+19
+wk6: Strategische keuze
+3. De SPACE-matrix
+Example Factors That Make Up the S P A C  E Matrix axes:
+Interne strategische positie | Externe strategische positie
+Concurrentiepositie (C  P) | IndustriePosition (I  P)
+Marktaandeel | Groeipotentieel
+Productkwaliteit | Winstpotentieel
+Productlevenscyclus | Financiële stabiliteit
+Klantenloyaliteit | Mate van hefboomwerking
+Capaciteitsbenutting | Middelen benutting
+Technologische knowhow | Gemak van toetreding tot de markt
+Controle over leveranciers en distributeurs | Productiviteit, capaciteit benutting
+
+--- slide 20 ---
+wk6: Strategic choice
+3. The SPACE matrix
+Example of profile with factors:
+20
+
+--- slide 21 ---
+wk6: Strategic choice
+3. The SPACE matrix
+Example of profile with factors:
+21
+
+--- slide 22 ---
+wk6: Strategic choice
+3. The SPACE matrix
+This leads to the following example profiles:
+22
+
+--- slide 23 ---
+23
+wk6: Strategische keuze
+Opdracht: SPACE-matrix
+Download het INSM_E Excel Template (BlackBoard).
+Ga naar het eerste tabblad (PART I) en vul het SPACE matrix deel in:
+lees de uitleg nauwkeurig en volg deze
+Beoordeel je bedrijf(praktijkopdracht) op de 5 factoren voor elke dimensie (N.B. haal de plussen en minnen niet door elkaar)
+Als je wilt kun je de factoren vervangen voor meer geschikte
+Ga naar het SPACE tabblad voor de resultaten. Welke soorten strategieën zouden het meest geschikt zijn voor het bedrijf?
+
+--- slide 24 ---
+24
+wk6: Strategische keuze
+4. De BCG-matrix
+Eén van de uitdagingen waar bedrijven mee te maken hebben, is hoe ze de behoeften van verschillende divisies (of Business Units) kunnen prioriteren.
+
+Een populair hulpmiddel om de kasstroom, investeringskenmerken en andere behoeften in relatie tot de marktpositie te beoordelen, is de Boston Consulting Group-matrix.
+
+
+In de loop van de tijd zouden organisaties moeten streven naar een portfolio van divisies die sterren zijn.
+
+--- slide 25 ---
+25
+wk6: Strategic choice
+4. De BCG-matrix
+Hoe werk het?
+
+Het geeft grafisch de verschillen tussen divisies weer in termen van relatieve marktaandeelpositie en industriële groeisnelheid
+
+In de matrix vertegenwoordigt elke cirkel een afzonderlijke divisie.
+De grootte van de cirkel komt overeen met het aandeel van de bedrijfsomzet dat door die business unit wordt gegenereerd.
+Het taartpunt geeft het aandeel van de bedrijfswinst aan dat door die divisie wordt gegenereerd.
+
+
+Het stelt een multidivisiale organisatie in staat om haar portfolio van bedrijven te beheren (elke divisie ten opzichte van de andere divisies).
+
+--- slide 26 ---
+26
+wk6: Strategic choice
+4. The BCG matrix
+An example:
+
+--- slide 27 ---
+27
+wk6: Strategische keuze
+4. De BCG-matrix
+We gebruiken de volgende terminologie voor elke 
+kwadrant:
+
+Vraagtekens (Kwadrant I)
+De organisatie moet ze ofwel versterken door een intensieve strategie te volgen (marktpenetratie, markt-/productontwikkeling) of ze verkopen.
+
+Sterren (Kwadrant II)
+de beste langetermijnmogelijkheden voor groei en winstgevendheid
+
+Cash Cows (Kwadrant III)
+genereren meer cash dan nodig → behoud de positie zo lang mogelijk
+
+Honden (Kwadrant IV)
+Concurreren in een trage industrie of in waar geen marktgroei is → worden vaak geliquideerd, afgestoten of ingekrompen door middel van inkrimping
+
+--- slide 28 ---
+28
+wk6: Strategische keuze
+4. De BCG-matrix
+Enkele voorbeelden:
+
+--- slide 29 ---
+29
+wk6: Strategische keuze
+Opdracht: BCG matrix
+Onderzoek in welke branches/type activiteiten Alphabet Inc. actief is.
+Onderzoek omzet, winst, marktgroei en relatief marktaandeel voor elk type activiteit.
+Als er geen gegevens beschikbaar zijn, gebruik dan je gezond verstand om tot een schatting te komen
+Teken de BCG-matrix en zet deze in PowerPoint.
+
+Wat valt je op?
+
+--- slide 30 ---
+30
+wk6: Strategische keuze
+5. Kostenschatting
+Enerzijds is geen enkele strategische beslissing compleet zonder de financiële aspecten in overweging te nemen.
+Maar anderzijds zijn op het moment van de strategische beslissing de verwachte kosten, investeringen en opbrengsten vaak nog grotendeels onbekend.
+Vaak kun je de kosten van een activiteit pas nauwkeurig bepalen wanneer je deze daadwerkelijk uitvoert
+Het kan te vroeg zijn om te beslissen of je koopt (~ investeert) of huurt (~ kosten)
+in veel gevallen blijkt de opbrengst heel anders te zijn dan de projecties
+
+Bedrijven gaan met dit dilemma om door een schatting te maken met een duidelijke (en transparante) onderbouwing.
+
+--- slide 31 ---
+31
+wk6: Strategische keuze
+5. Kostenschatting
+Rationele schattingen hebben vaak de volgende kenmerken:
+
+Het bedrijf besteedt enige tijd aan onderzoek (bijv. kijken naar vergelijkbare activiteiten en publicaties, praten met leveranciers en experts).
+Een schatting is vaak een punt binnen een geprojecteerd bereik.
+Aannames worden expliciet gecommuniceerd (en worden gevolgd op eventuele veranderingen).
+Informatiebronnen worden zoveel mogelijk gedeeld.
+
+
+Tabel 6.6 in het boek geeft redelijke indicaties voor een gemiddelde situatie. Online kun je vergelijkbare 'vuistregels' vinden. Houd echter rekening met het volgende:
+de omstandigheden moeten vergelijkbaar zijn, en
+je moet je bronnen vermelden.
+
+--- slide 32 ---
+32
+wk6: Strategische keuze
+Opdracht: Kosten schatting
+Maak een eenvoudige formule voor het break-evenvolume voor de iPhone.
+Bepaal welke soorten financiële informatie je nodig hebt om het break-evenvolume voor de iPhone te berekenen (je kunt een gemiddelde verkoopprijs van € 1.000 voor de iPhone gebruiken).
+Zoek online naar deze verschillende soorten informatie.
+Som je schattingen en de bijbehorende aannames op.
+Gebruik de schattingen van 4. en de formule van 1. om het break-evenvolume te berekenen.
+
+--- slide 33 ---
+33
+wk6: Strategische keuze
+Een van de moeilijkste keuzes waar een bedrijf mee te maken heeft, is de selectie van een strategie. Enkele redenen hiervoor zijn:
+Strategieën hebben meestal te maken met afwegingen; een goede strategie vertelt je niet alleen wat je moet doen, maar ook (en vooral?) wat je niet moet doen.
+Strategieën zijn vaak gebaseerd op onvolledige en soms tegenstrijdige informatie.
+Het ontwikkelen van strategieën vereist reflectie, terwijl leiderschap vaak druk bezig is met het blussen van branden.
+
+Sommige bedrijven volgen de ‘strategie van het onderbuikgevoel’.
+
+Door echter een gestructureerde benadering te gebruiken, kan een bedrijf rationaliteit aan het proces toevoegen en daardoor de kans op succes aanzienlijk vergroten.
+Overzicht week 6
+
+--- slide 34 ---
+34
+wk6: Strategische keuze
+Huiswerk
+Lees:
+Hoofdstuk 6 (LO 6.3, 6.4, 6.5 en tabel 6.6)
+
+Praktijkopdracht
+opdrachten van week 6
