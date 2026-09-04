@@ -39,7 +39,7 @@ gebruiken die hier staan (met bron) of die hij zelf opzoekt en van een bron voor
 | 3 strategische opties (Upload 3 / Tollgate 3) | 4–5 | **concept af** — `06-uitwerking/03-drie-opties.md` |
 | SWOT / SPACE / BCG / kostenschatting + **de keuze** | 6 | **concept af** — `06-uitwerking/04-strategische-keuze.md` |
 | Marketinggedeelte | 7 | **concept af** — `06-uitwerking/05-marketing.md` |
-| Operationeel gedeelte | 8 | niet gestart |
+| Operationeel gedeelte | 8 | **concept af** — `06-uitwerking/06-operations.md` |
 | Financieel gedeelte + pitch deck | 9 | niet gestart |
 | Eindrapport + reflectie + Balanced Scorecard | 10 | niet gestart |
 | Pitch presenteren | 10/11 | niet gestart |
