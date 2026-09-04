@@ -1,0 +1,209 @@
+### FILE INSM_wk5_student — 19 slides
+
+--- slide 1 ---
+Internationaal
+Strategisch Management
+Deel II
+1
+wk5: Elaborate options
+
+--- slide 2 ---
+2
+Hoe je een (oppervlakkig) idee kunt beschrijven over hoe het bedrijf hun belangrijkste probleem/problemen op een meer strategisch samenhangende manier kan aanpakken.
+Vorige week bespraken we
+wk5: Optie uitwerken
+
+--- slide 3 ---
+
+
+--- slide 4 ---
+4
+wk5: Optie uitwerken
+Op hoog niveau opties beschrijven met (iets) meer details over marketing, operaties en financiën.
+na deze week kun je …
+
+--- slide 5 ---
+5
+wk5: Optie uitwerken
+Een korte herhaling over financiële overzichten (LO 8.2)
+
+Een korte samenvatting van enkele marketingprincipes
+
+Een korte samenvatting van wat operations inhoudt
+Onderwerpen die je daarbij helpen:
+
+--- slide 6 ---
+6
+wk5: Optie uitwerken
+1. Samenvatting van financiële overzichten
+We starten met een korte herhaling van onderwerpen die al aanbod zijn gekomen in eerdere modules (o.a. Basic Finance & Accounting):
+
+Introductie
+Verschil tussen balans en winst- en verliesrekening
+
+Meer details over de winst- en verliesrekening
+Eenvoudig voorbeeld
+
+
+
+
+N.B. III. & IV. zijn onderwerpen uit week 9
+
+--- slide 7 ---
+7
+wk5: Optie uitwerken
+Opdracht: herhaling
+Pak een blanco papier en creeër voor een bedrijf een balans en een winst- en verliesrekening. 
+
+
+N.B. vul nog geen getallen in, alleen de verschillende posten (catergorieën).
+
+--- slide 8 ---
+8
+wk5: Optie uitwerken
+1. Samenvatting van financiële overzichten
+
+--- slide 9 ---
+9
+wk5: Optie uitwerken
+1. Samenvatting van financiële overzichten
+II. Verschil tussen balans en winst- en verliesrekening
+
+Winst- en verliesrekening (of inkomstenverklaring)
+Doel: het bijhouden van het geld dat je verdient (inkomsten) en het geld dat je uitgeeft (uitgaven) bij het runnen van je bedrijf
+
+Tijdspanne: W&V beslaan een bepaalde periode, zoals een maand, kwartaal of jaar
+
+Belangrijkste sescties:
+Inkomsten of omzet (of Turnover in het VK): wat klanten aan je betalen 
+Kosten van goederen verkocht (Cost of Goods Sold, COGS): wat het kost om het werk van de klant te produceren 
+Brutowinst: inkomsten – kosten van goederen verkocht (COGS)
+
+Uitegaven: wat het kost om het bedrijf te runnen (o.a. Huur, salarissen, marketing, etc.)
+Nettowinst (of netto inkomen): brutowinst – uitgave
+
+--- slide 10 ---
+10
+wk5: Optie uitwerken
+1. Samenvatting van financiële overzichten
+III. Meer details over de winst- en verliesrekening
+
+Balans uitgelegd
+Doel: om je activa (wat je bezit) en je passiva (je schulden) bij te houden
+
+Tijdspanne: Balansoverzichten zijn een momentopname van een bepaald tijdstip en tonen je activa en passiva op een specifieke dag
+
+Belangrijkste secties:
+Activa: alles wat je bezit  waar je een bedrag aan kunt koppelen (o.a. je banksaldo, voorraden, debiteuren (=geld dat aan jou verschuldigd is), etc.
+Meestal opgesplitst in kortlopende activa (zoals je betaalrekening) en langlopende activa (zoals machines of onroerend goed)
+Passiva: alles waar je geld aan verschuldigd bent, zoals: bedrijfskredieten, crediteuren (=leveranciers aan wie je geld verschuldigd bent)
+Ook opgesplitst in kortlopende en langlopende passiva, afhankelijk van wanneer het geld verschuldigd is
+Eigen vermogen (netto waarde): activa – passiva
+
+--- slide 11 ---
+11
+wk5: Optie uitwerken
+Opdracht: financials
+Wat denk je dat je gemiddelde inkomen zal zijn van je 25e tot je 35e?
+Download het INSM_E Excel Template (BlackBoard).
+Maak een winst- en verliesrekening en een balans voor jezelf door de volgende lichtgroene vakken in te vullen op het tweede tabblad: E11, E30/E58
+Bepaal je eigen netto waarde = je totale activa minus je totale passiva.
+Als je een negatieve netto waarde hebt, denk je dat je toekomstige inkomen voldoende is om een positieve netto waarde te hebben wanneer je 35 bent?
+
+N.B. deel je netto waarde niet met je klasgenoten!
+
+--- slide 12 ---
+12
+wk5: Optie uitwerken
+F&A quiz (1)
+Is de vergelijking Activa = Passiva + Eigen vermogen waar?
+Geeft een balans de financiële positie van een bedrijfop een bepaald moment weer? 
+Wordt afschrijving als een kostenpost beschouwd?
+Wordt dividend beschouwd als een uitgave op dewinst- en verliesrekening?
+Zijn "Crediteuren" bedrijfsmiddelen?
+Kan een bedrijf een positief netto-inkomen hebben en toch zonder geld komen te zitten?
+
+--- slide 13 ---
+13
+wk5: Optie uitwerken
+F&A quiz (2)
+Is de tijdswaarde van geld het idee dat een dollar vandaag meer waard is dan een dollar morgen?
+Leidt een hoger risico altijd tot een hoger rendement?
+Is de netto contante waarde (NPV) positief wanneerhet verwachte rendement hoger is dan dekapitaalkosten?
+Wordt werkkapitaal gedefinieerd als vlottende activamin kortlopende verplichtingen?
+Wijkt de marktwaarde van een aandeel af van deboekwaarde?
+Is diversificatie een manier om niet-systematische risico's te verminderen?
+Is hefboomwerking het gebruik van schulden om het potentiële rendement op het eigen vermogen te verhogen?
+
+--- slide 14 ---
+14
+wk5: Optie uitwerken
+2. enkele marketingprincipes
+Een marketingstrategie moet altijd antwoord geven op deze vragen: 
+
+Hoe beschrijf je de doelgroep(en) waarop het bedrijf zich richt?
+Wat is de waardepropositie van het bedrijf?
+Wat is de positionering ten opzichte van de belangrijkste concurrenten?
+Hoe wordt de waardepropositie geoperationaliseerd?
+Klantwaarde/voordeel, kosten, gemak, communicatie, etc.
+
+De operationalisering moet worden vertaald in operationele plannen en wordt over het algemeen beoordeeld op basis van de marketing-, operationele en financiële strategische impact (en soms andere factoren).
+
+
+N.B. de marketingstrategie moet een onderdeel zijn van de algehele bedrijfsstrategie van het bedrijf.
+
+--- slide 15 ---
+15
+wk5: Optie uitwerken
+Opdracht: Marketingstrategie
+Kies een bedrijf uit tabel 7.2 (pg. 233)
+Beantwoord vraag 1 t/m 3 van de vorige slide 
+Neem het bestverkochte product of de bestverkochte dienst van het bedrijf en operationaliseer dit (zie vraag 4).
+Presenteer in de klas
+
+--- slide 16 ---
+16
+wk5: Optie uitwerken
+3. management van operation
+Operations management is het beheer van de bedrijfsstructuur, -praktijken en -processen om de efficiëntie te verbeteren en de winst te maximaliseren. Het betreft het beheer van de functies die een bedrijf dagelijks nodig heeft om effectief te opereren. 
+
+Operations vormen de basis van een bedrijf, inclusief hoe het omgaat met de toeleveringsketen en logistiek. Winst hangt af van slanke, efficiënte operaties. Slechte bedrijfsvoering kan de overleving van een bedrijf bedreigen, dus processen moeten worden geoptimaliseerd, het juiste personeel moet worden aangenomen en fysieke locaties moeten strategisch, ethisch en veilig zijn.
+
+Enkele typische activiteiten waarvoor de operationele functie verantwoordelijk is:
+Het evalueren, ontwerpen en implementeren van bedrijfsprocessen en bedrijfsstructuur
+Het beheren van logistieke processen, toeleveringsketen, productie, distributie en kwaliteitsborging
+Efficiëntieverbeteringen
+
+--- slide 17 ---
+17
+wk5: Optie uitwerken
+Opdracht: Operations
+Beschrijv voor een normaal formaat MacDonalds een, naar jouw mening, optimale organisatiestructuur
+Alle mensen die op locatie werken moeten worden opgenomen
+Maak een lijst van alle functies
+Schat het aantal mensen dat per functie en in leidinggevende rollen werkt
+Maak een PowerPoint met de organisatiestructuur en presenteer deze in de klas
+Wat denk je dat McDonald's bedoelt als ze praten over hoogwaardig eten?
+Wat kan McDonald's doen (of heeft McDonald's al gedaan) om hoge kwaliteit te leveren?
+Wat kan McDonald's doen om de efficiëntie te maximaliseren?
+
+--- slide 18 ---
+18
+wk5: Optie uitwerken
+Praktijkopdracht
+Maak Upload 3 (zie praktijkopdracht op Blackboard) 
+upload uiterlijk zaterdagavond!
+
+De docent geeft aan of deze stap voldoende/onvoldoende is (= Tollgate 3)
+
+--- slide 19 ---
+19
+wk5: Optie uitwerken
+Huiswerk
+Vind:
+Modellen/theorieën die je kunt gebruiken om jouw 
+3 oplossingsrichtingen van je praktijkopdracht te 
+bschrijven
+
+Praktijkopdracht
+upload, uiterlijk zaterdagavond, op Blackboard, je beschrijvingen van alle 3 de benaderingen (oplossingen) die je hebt geïdentificeerd waaruit het bedrijf kan kiezen om hun belangrijkste strategische probleem aan te pakken (N.B. de vereiste details staan op Blackboard) (= Upload 3)
