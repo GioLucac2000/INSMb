@@ -37,7 +37,7 @@ gebruiken die hier staan (met bron) of die hij zelf opzoekt en van een bron voor
 | EFE + CPM | 2 | **concept af** — `06-uitwerking/01-externe-analyse.md` |
 | IFE + top 3 kwesties (Upload 2 / Tollgate 2) | 3 | **concept af** — `06-uitwerking/02-interne-analyse.md` |
 | 3 strategische opties (Upload 3 / Tollgate 3) | 4–5 | **concept af** — `06-uitwerking/03-drie-opties.md` |
-| SWOT / SPACE / BCG / kostenschatting | 6 | niet gestart |
+| SWOT / SPACE / BCG / kostenschatting + **de keuze** | 6 | **concept af** — `06-uitwerking/04-strategische-keuze.md` |
 | Marketinggedeelte | 7 | niet gestart |
 | Operationeel gedeelte | 8 | niet gestart |
 | Financieel gedeelte + pitch deck | 9 | niet gestart |
